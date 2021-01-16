@@ -1,0 +1,17 @@
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\bin\Release\netcoreapp2.1\appsettings.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\bin\Release\netcoreapp2.1\MyWebSite.deps.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\bin\Release\netcoreapp2.1\MyWebSite.runtimeconfig.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\bin\Release\netcoreapp2.1\MyWebSite.runtimeconfig.dev.json
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\bin\Release\netcoreapp2.1\MyWebSite.dll
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\bin\Release\netcoreapp2.1\MyWebSite.pdb
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.csprojAssemblyReference.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.AssemblyInfoInputs.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.AssemblyInfo.cs
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.csproj.CoreCompileInputs.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.RazorAssemblyInfo.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.RazorAssemblyInfo.cs
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.RazorTargetAssemblyInfo.cache
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.dll
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.pdb
+D:\20487C\Demo\20487-Mod6-Demo-Lesson1\MyWebSite\MyWebSite\obj\Release\netcoreapp2.1\MyWebSite.genruntimeconfig.cache
